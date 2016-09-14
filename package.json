@@ -1,0 +1,25 @@
+{
+  "name": "node-express-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smashdevcode/node-express-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smashdevcode/node-express-sample/issues"
+  },
+  "homepage": "https://github.com/smashdevcode/node-express-sample#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  }
+}
